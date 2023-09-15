@@ -64,6 +64,8 @@ Resources to dig deeper into some of the concepts we talk about.
 
 ## Learn by doing
 
+* [XCM playground](https://github.com/AlexD10S/xcm-playground/tree/master): a stripped down version of the examples in the XCM docs.
+
 * [Rococo](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/explorer) is a live testnet with a whole bunch of parachains connected to it. Get yourself some test tokens from the [faucet](https://paritytech.github.io/polkadot-testnet-faucet/) and try it out.
 
 * [Trappist](https://github.com/paritytech/trappist) is a web3 developer playground for experimenting with cross-chain applications and services built with the Polkadot SDK. You can use it to experiment cross-chain calls by launch a local test net using Zombie net.
@@ -71,5 +73,3 @@ Resources to dig deeper into some of the concepts we talk about.
 - [Saturn Typescript SDK](https://saturn-docs.invarch.network/): Saturn is a powerful multisig protocol that leverageS no-code account abstraction to provide a seamless experience across different chains. It contains easy to use ways to construct XCM calls using TypeScript.
 
 - [Kodadot](https://github.com/kodadot/nft-gallery): is a marketplace for Polkadot NFTs, working on user experiences for creating and minting NFT collections. If you're a front-end developer, their repositories are a good starting point to look at how to build your own user-facing apps using their libraries.
-
-
